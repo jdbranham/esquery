@@ -1,5 +1,11 @@
 # esquery
 
+
+Forked from aquasecurity/esquery  
+
+Updated for ElasticSearch v8
+
+
 [![](https://img.shields.io/static/v1?label=godoc&message=reference&color=blue&style=flat-square)](https://godoc.org/github.com/aquasecurity/esquery) [![](https://img.shields.io/github/license/aquasecurity/esquery?style=flat-square)](LICENSE) [![Build Status](https://travis-ci.org/aquasecurity/esquery.svg?branch=master)](https://travis-ci.org/aquasecurity/esquery)
 
 
@@ -52,7 +58,7 @@ import (
 	"log"
 
 	"github.com/aquasecurity/esquery"
-	"github.com/elastic/go-elasticsearch/v7"
+	"github.com/elastic/go-elasticsearch/v8"
 )
 
 func main() {
