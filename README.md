@@ -1,7 +1,7 @@
 # esquery
 
 
-Forked from aquasecurity/esquery  
+Hard fork from from aquasecurity/esquery  
 
 Updated for ElasticSearch v8
 
